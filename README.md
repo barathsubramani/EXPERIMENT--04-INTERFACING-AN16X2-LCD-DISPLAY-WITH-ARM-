@@ -177,7 +177,7 @@ BARATH S
 212222230018
 
 ## Output screen shots of proteus  :
- ![WhatsApp Image 2024-09-19 at 08 15 51_35c4cdc0](https://github.com/user-attachments/assets/e247ecde-f9c2-49ff-8065-5cde26948d25)
+![model](exp.png)
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![image](https://github.com/user-attachments/assets/f94fd311-26be-480b-8617-bf20d0cb8d30)
